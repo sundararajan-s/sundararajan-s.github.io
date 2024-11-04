@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Sundararajan"
   avatar           : "profile.jpg"
-  bio              : "First-year PhD Student at UT Austin"
+  bio              : "Second-year PhD Student at UT Austin"
   location         : "Austin, TX"
   employer         :
   pubmed           : 
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=yL9ES3UAAAAJ"
   email            :
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0004-5256-9730"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
